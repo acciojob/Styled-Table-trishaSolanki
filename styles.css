@@ -1,1 +1,12 @@
 /* your code */
+/* Apply styles to even rows */
+thead{
+    background-color:blue;
+	padding: 10px;/* Light gray */
+	margin:auto;
+}
+
+/* Apply styles to odd rows */
+tbody{
+    background-color:lightgray; /* White */
+}
